@@ -2,9 +2,9 @@
 
 [connections.dev]
 # See https://docs.snowflake.com/en/user-guide/admin-account-identifier.
-accountname = myaccount
-username = myusername
-password = mypassword
+accountname = QKFLNCT-AAB45737
+username = INSIGHT
+password = Romani171008434
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
